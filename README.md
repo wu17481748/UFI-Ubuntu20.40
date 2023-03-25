@@ -1,7 +1,7 @@
 # UFI-Ubuntu20.40
 
 
-随身wifi-Ubuntu20.40系统
+随身wifi-Ubuntu20.04系统
 
 刷入方法:
 
