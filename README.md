@@ -1,4 +1,4 @@
-# UFI-Ubuntu20.40
+# UFI-Ubuntu20.04
 
 
 随身wifi-Ubuntu20.04系统
