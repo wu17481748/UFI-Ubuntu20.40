@@ -27,6 +27,7 @@ linux系统
 
 ./flsh.sh
 
+登录:
 
 ssh root@192.168.68.1
 
