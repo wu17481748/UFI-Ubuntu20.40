@@ -11,7 +11,7 @@ fastboot一键刷入.bat
 
 linux系统
 
-./flsh.sh
+./flash.sh
 
 登录:
 
