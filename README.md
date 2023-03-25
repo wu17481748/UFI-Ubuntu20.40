@@ -24,7 +24,7 @@ ssh root@192.168.68.1
 切卡:
 
 
-nano /sbin/openstick-sim-changer
+nano /sbin/openstick-sim-changer.sh
 
 修改:Environment="SIM_ENABLED=xxxx"
 例如:Environment="SIM_ENABLED=sim:sel"
