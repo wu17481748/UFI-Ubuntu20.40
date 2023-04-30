@@ -9,10 +9,6 @@ windows系统
 
 fastboot一键刷入.bat
 
-linux系统
-
-./flash.sh
-
 登录:
 
 ssh root@192.168.68.1
